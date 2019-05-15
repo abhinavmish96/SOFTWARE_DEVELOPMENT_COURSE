@@ -15,3 +15,11 @@
 5. Variables
 
 6. Primitive Data Types
+
+
+## Computational Thinking
+
+### Computational thinking involves expressing solutions to the problems in ways that a computer can understand.There are four major steps involved with computational thinking:
+
+**1. Decomposition**
+
