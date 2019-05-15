@@ -32,4 +32,12 @@ Pattern recognition is the ability to recognise patterns or similarities in the 
 Let’s think of a very basic question. If you are told to find the 400th term of the sequence 1, 3, 6, 10….
 How will you go about it? Will you go till the 400th term or are you already starting to see something in it? Do you find a pattern that is repeating itself in this sequence?
 
-****
+**3. Abstraction:**
+
+Abstraction involves working on relevant information and ignoring information that is not useful to the problem at hand.
+
+Consider the following examples:
+
+While browsing a particular website, you just type the URL of the site and click Enter. You never think of how typing this takes you to your required website. If every time you try to open a website, you want to know how the URL opens it and how the contents appear on the page, you are not doing justice to your original problem, which is, let’s say, retrieving the contact information of the company from the website. Retrieving this information doesn’t require you to know how websites work.
+
+Abstraction means reducing and figuring out the relevant details of a problem so that it can be modelled computationally, thus reducing the complexity of the problem. In other words, it is an approach where you don’t think about a problem in very specific terms. Rather, you focus your attention on the more general and key information about the problem.
