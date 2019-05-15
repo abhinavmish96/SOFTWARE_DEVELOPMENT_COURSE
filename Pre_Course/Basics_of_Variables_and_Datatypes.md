@@ -41,3 +41,9 @@ Consider the following examples:
 While browsing a particular website, you just type the URL of the site and click Enter. You never think of how typing this takes you to your required website. If every time you try to open a website, you want to know how the URL opens it and how the contents appear on the page, you are not doing justice to your original problem, which is, let’s say, retrieving the contact information of the company from the website. Retrieving this information doesn’t require you to know how websites work.
 
 Abstraction means reducing and figuring out the relevant details of a problem so that it can be modelled computationally, thus reducing the complexity of the problem. In other words, it is an approach where you don’t think about a problem in very specific terms. Rather, you focus your attention on the more general and key information about the problem.
+
+**4. Algorithm Design:**
+
+Representation of your plan in step-by-step sequential instructions. This is what we call algorithms or algorithm designs.
+
+Remember, the steps should be well defined, exhaustive, sequential, and should have a finite endpoint, i.e. the one who is reading the instructions should clearly know when to stop.
