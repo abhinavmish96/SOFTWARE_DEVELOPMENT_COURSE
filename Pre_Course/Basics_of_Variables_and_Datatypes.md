@@ -47,3 +47,6 @@ Abstraction means reducing and figuring out the relevant details of a problem so
 Representation of your plan in step-by-step sequential instructions. This is what we call algorithms or algorithm designs.
 
 Remember, the steps should be well defined, exhaustive, sequential, and should have a finite endpoint, i.e. the one who is reading the instructions should clearly know when to stop.
+
+## Java Development Kit
+
