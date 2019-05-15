@@ -192,3 +192,10 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | man [command] |  Show the help manual for [command] |
 | whatis [command] | Gives a one-line description of [command] |
 | apropos [search-pattern] | Searches for command with keywords in description |
+
+
+## Hello World Program
+
+You can the HelloWorld.java file which can be run on [VS code](https://code.visualstudio.com/download) by installing [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+**It is important to remember that the public class name should be same as file name to run.**
