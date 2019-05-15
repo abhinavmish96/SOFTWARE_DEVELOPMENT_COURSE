@@ -196,6 +196,6 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 ## Hello World Program
 
-You can the [HelloWorld.java](https://code.visualstudio.com/docs/java/java-tutorial) file which can be run on [VS code](https://code.visualstudio.com/download) by installing [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+You can run the [HelloWorld.java](https://code.visualstudio.com/docs/java/java-tutorial) file which can be run on [VS code](https://code.visualstudio.com/download) by installing [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
-**It is important to remember that the public class name should be same as file name to run.**
+**It is important to remember that the public class name should be same as file name to run. It is only required when there is a public class in the program**
