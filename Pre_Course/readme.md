@@ -1,3 +1,5 @@
+# Basics of Coding
+
 ## This module on Variables and Data Types. In this module, you will learn about various aspects of computational thinking. You will learn how to compile and run your program on the command line. Also, you will be introduced to the concept of variables in programming and the various data types that exist in JavaScript.
 
 ### In this session, you will learn about the following aspects of computer programming:
