@@ -2,20 +2,22 @@
 
 ### In this session, you will learn about the following aspects of computer programming:
 
-**1. Introduction to computational thinking**
+**1. Introduction to Computational Thinking**
 
-**2. Installation of NodeJS**
+**2. NodeJS - Installation and Description**
 
-**3. The ‘Hello World’ Program on Command Prompt**
+**3. Using Terminal and CLI in Mac**
 
-**4. Code editor - VScode**
+**4. The ‘Hello World’ Program in JS in Browser and NodeJs**
 
-**5. Variables**
+**5. Code editor - VScode**
 
-**6. Primitive Data Types**
+**6. Variables**
+
+**7. Primitive Data Types**
 
 
-## Computational Thinking
+## Introduction to Computational Thinking
 
 ### Computational thinking involves expressing solutions to the problems in ways that a computer can understand.There are four major steps involved with computational thinking:
 
@@ -48,11 +50,11 @@ Representation of your plan in step-by-step sequential instructions. This is wha
 
 Remember, the steps should be well defined, exhaustive, sequential, and should have a finite endpoint, i.e. the one who is reading the instructions should clearly know when to stop.
 
-## JavaScript and NodeJS
+## NodeJS - Installation and Description
 
 
 
-## Command Line
+## Using Terminal and CLI in Mac
 
 Terminal Cheatsheet for Mac (Basics)
 _Letters are shown capitalized for readability only._  _Capslock should be off._
@@ -192,6 +194,12 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | apropos [search-pattern] | Searches for command with keywords in description |
 
 
-## Hello World Program
+## The ‘Hello World’ Program in JS in Browser and NodeJs
 
-You can run the HelloWorld.js
+You can run the HelloWorld.js in the browser and in terminal window using nodeJS
+
+## Code editor - VScode
+
+## Variables
+
+## Primitive Data Types
