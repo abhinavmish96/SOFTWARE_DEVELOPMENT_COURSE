@@ -48,11 +48,9 @@ Representation of your plan in step-by-step sequential instructions. This is wha
 
 Remember, the steps should be well defined, exhaustive, sequential, and should have a finite endpoint, i.e. the one who is reading the instructions should clearly know when to stop.
 
-## Java Development Kit
+## JavaScript and NodeJS
 
-JDK contains the JRE and a Java compiler. The Java compiler converts the source code to a byte code. This byte code is converted to the final machine code by the JVM, which is contained by the JRE. You can read more about the JDK by accessing the link given [here](https://stackoverflow.com/questions/11547458/what-is-the-difference-between-jvm-jdk-jre-openjdk). We also discussed that a computer understands everything in machine language, and all the data on a computer is stored in the form of binary bits, i.e. 0 and 1. You can read more about binary bits on this [page](https://computing-concepts.cs.uri.edu/wiki/Main_Page).
 
-You can download the Java Development Kit or JDK from this [page](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html).
 
 ## Command Line
 
@@ -196,6 +194,4 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 ## Hello World Program
 
-You can run the [HelloWorld.java](https://code.visualstudio.com/docs/java/java-tutorial) file which can be run on [VS code](https://code.visualstudio.com/download) by installing [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-
-**It is important to remember that the public class name should be same as file name to run. It is only required when there is a public class in the program**
+You can run the HelloWorld.js
