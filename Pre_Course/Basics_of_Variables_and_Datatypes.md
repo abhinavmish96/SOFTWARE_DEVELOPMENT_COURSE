@@ -1,14 +1,14 @@
-## This module on Variables and Data Types. In this module, you will learn about various aspects of computational thinking. You will learn how to compile and run your program on the command line. Also, you will be introduced to the concept of variables in programming and the various data types that exist in Java.
+## This module on Variables and Data Types. In this module, you will learn about various aspects of computational thinking. You will learn how to compile and run your program on the command line. Also, you will be introduced to the concept of variables in programming and the various data types that exist in JavaScript.
 
 ### In this session, you will learn about the following aspects of computer programming:
 
 **1. Introduction to computational thinking**
 
-**2. Installation of JDK**
+**2. Installation of NodeJS**
 
 **3. The ‘Hello World’ Program on Command Prompt**
 
-**4. Integrated Development Environment (IDE) - IntelliJ**
+**4. Code editor - VScode**
 
 **5. Variables**
 
