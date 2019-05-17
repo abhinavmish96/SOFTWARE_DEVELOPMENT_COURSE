@@ -1,6 +1,6 @@
 # Hello World!
 
-## This course is here to help you to learn software development. It will be updated weekly so stay tuned to get updates. This is for anyone who is learning to code and start a carrer as software developer.
+## This course is here to help you to learn software development. It will be updated weekly so stay tuned to get updates. This is for anyone who is learning to code and start a carrer as a software developer and coding.
 
 #### Just follow the flow to get the best out of this course:
 
