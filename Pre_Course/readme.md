@@ -211,3 +211,5 @@ You can run the HelloWorld.js in the browser and in terminal window using nodeJS
 [Visual Studio Code](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity). Begin your journey with VS Code with these [introductory videos](https://code.visualstudio.com/docs/getstarted/introvideos).
 
 ## Git and Version control
+
+[Git](https://git-scm.com) is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
